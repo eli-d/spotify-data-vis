@@ -1,4 +1,4 @@
-# spotify-data-vis
+# Spotify Data Visualisations
 Data visualisation project using Plotly and Dash in Python.
 
 Contains Jupyter notebooks used to test and manipulate data, as well as app.py localhost Python code.
